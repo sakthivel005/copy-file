@@ -45,7 +45,8 @@ with open('file.txt','r') as f1:
 
 ### OUTPUT:
 
-![Screenshot from 2023-01-26 18-30-44](https://user-images.githubusercontent.com/120550359/214841930-76f45c8b-4b5b-4825-bb13-bdb20654f4ff.png)
+
+![Screenshot from 2023-01-26 18-30-44](https://user-images.githubusercontent.com/120550359/214842035-9c858a18-7149-4892-a016-5aecde1bfef9.png)
 
 
 
