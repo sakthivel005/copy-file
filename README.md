@@ -42,12 +42,14 @@ with open('file.txt','r') as f1:
     with open('file2.txt','a') as f2:
         for line in f1:
             f2.write(line)
+```
 
 ### OUTPUT:
 
 
-![Screenshot from 2023-01-26 18-30-44](https://user-images.githubusercontent.com/120550359/214842035-9c858a18-7149-4892-a016-5aecde1bfef9.png)
 
+
+![Screenshot from 2023-01-26 18-30-44](https://user-images.githubusercontent.com/120550359/214842219-25688ef2-7d45-4ea3-a019-ebf2a663d0c2.png)
 
 
 
